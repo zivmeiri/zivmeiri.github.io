@@ -347,6 +347,110 @@ body {
   margin-bottom: 8px;
 }
 .insight.purple-border .insight-label { color: var(--purple); }
+/* Outbound campaign table */
+.campaign-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 20px;
+  margin-top: 24px;
+}
+.campaign-card {
+  background: rgba(255,255,255,0.025);
+  border: 1px solid rgba(255,255,255,0.06);
+  border-radius: 8px;
+  padding: 24px;
+  transition: border-color 0.3s ease;
+}
+.campaign-card:hover {
+  border-color: rgba(35,231,216,0.2);
+}
+.campaign-card-header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  margin-bottom: 12px;
+}
+.campaign-vertical {
+  font-family: 'Hellix', sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  color: var(--text-bright);
+}
+.campaign-status {
+  font-size: 12px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  padding: 3px 8px;
+  border-radius: 4px;
+}
+.campaign-status.active {
+  color: var(--teal);
+  background: rgba(35,231,216,0.08);
+}
+.campaign-status.paused {
+  color: var(--purple);
+  background: rgba(161,131,250,0.08);
+}
+.campaign-metric-row {
+  display: flex;
+  gap: 16px;
+  margin: 14px 0;
+  flex-wrap: wrap;
+}
+.campaign-metric {
+  display: flex;
+  flex-direction: column;
+}
+.campaign-metric-val {
+  font-family: 'Roobert', sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+  color: var(--text-bright);
+}
+.campaign-metric-label {
+  font-size: 11px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--text-dim);
+  margin-top: 2px;
+}
+.campaign-sender {
+  font-size: 14px;
+  color: var(--text-mid);
+  margin-bottom: 6px;
+}
+.campaign-desc {
+  font-size: 14px;
+  color: var(--text-dim);
+  line-height: 1.5;
+  margin-top: 8px;
+}
+.campaign-summary-strip {
+  display: flex;
+  gap: 32px;
+  flex-wrap: wrap;
+  margin-top: 28px;
+  padding: 20px 24px;
+  background: rgba(35,231,216,0.03);
+  border-left: 3px solid var(--teal);
+}
+.campaign-summary-cell {
+  display: flex;
+  flex-direction: column;
+}
+.campaign-summary-val {
+  font-family: 'Roobert', sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+  color: var(--text-bright);
+}
+.campaign-summary-label {
+  font-size: 11px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--teal);
+  margin-top: 2px;
+}
 .insight p {
   font-size: 16px;
   color: var(--text-mid);
@@ -1939,6 +2043,158 @@ body {
       <p class="insight-label">The Operating Thesis</p>
       <p>Sustained pipeline growth comes from consistency, not campaigns. One weekly data drop, agentic amplification, executive voice rotation, always-on paid. The BADAS 2.0 launch creates the inflection — the weekly cadence compounds the result. Efficiency gains mean a team of 4 executes like a team of 12.</p>
     </div>
+  </div>
+</section>
+
+<!-- ═══ S9 · OUTBOUND CAMPAIGNS ═══ -->
+<section class="tab-section" aria-labelledby="s9-heading">
+  <div class="tab-bg">
+    <div class="tab-glow" style="top:10%;left:-10%;background:radial-gradient(ellipse,rgba(35,231,216,0.06),transparent 70%)"></div>
+    <svg class="tab-noise" width="100%" height="100%" aria-hidden="true">
+      <filter id="n9"><feTurbulence baseFrequency="0.65"/></filter>
+      <rect width="100%" height="100%" filter="url(#n9)" opacity="0.03"/>
+    </svg>
+  </div>
+  <div class="tab-inner" style="max-width:1100px">
+    <div class="tab-chapter teal tab-reveal">09 / Q1 FY26 Outbound Campaigns</div>
+    <h2 id="s9-heading" class="tab-headline tab-reveal">400+ named accounts.<br>5 verticals. Pipeline in motion.</h2>
+    <p class="tab-sub tab-reveal">Active outbound campaigns targeting named accounts across Insurance, DOT, AV Insurance, and AV Players verticals. Three AEs executing sequences with vertical-specific value propositions.</p>
+
+    <!-- Summary strip -->
+    <div class="campaign-summary-strip tab-reveal">
+      <div class="campaign-summary-cell">
+        <span class="campaign-summary-val">~570</span>
+        <span class="campaign-summary-label">Named Accounts</span>
+      </div>
+      <div class="campaign-summary-cell">
+        <span class="campaign-summary-val">5</span>
+        <span class="campaign-summary-label">Verticals</span>
+      </div>
+      <div class="campaign-summary-cell">
+        <span class="campaign-summary-val">3</span>
+        <span class="campaign-summary-label">AEs Executing</span>
+      </div>
+      <div class="campaign-summary-cell">
+        <span class="campaign-summary-val">3</span>
+        <span class="campaign-summary-label">Email Touches / Sequence</span>
+      </div>
+    </div>
+
+    <!-- Campaign cards -->
+    <div class="campaign-grid tab-reveal">
+
+      <!-- A) MGAs / Insurance -->
+      <div class="campaign-card">
+        <div class="campaign-card-header">
+          <span class="campaign-vertical">MGAs / Insurance</span>
+          <span class="campaign-status active">Active</span>
+        </div>
+        <p class="campaign-sender">Sender: Dean Becker, Account Executive</p>
+        <div class="campaign-metric-row">
+          <div class="campaign-metric">
+            <span class="campaign-metric-val">~195</span>
+            <span class="campaign-metric-label">Companies</span>
+          </div>
+          <div class="campaign-metric">
+            <span class="campaign-metric-val">3</span>
+            <span class="campaign-metric-label">Cohort Groups</span>
+          </div>
+        </div>
+        <p class="campaign-desc">Nexar Risk Index — pre-bind visibility into actual driving exposure by driver type, geography, and time of day. Replaces static garaging ZIP codes with continuous, observation-based risk benchmarks.</p>
+      </div>
+
+      <!-- B) DOT Partners -->
+      <div class="campaign-card">
+        <div class="campaign-card-header">
+          <span class="campaign-vertical">DOT Partners</span>
+          <span class="campaign-status active">Active</span>
+        </div>
+        <p class="campaign-sender">Sender: Mark Pawloski, Dir Enterprise Growth</p>
+        <div class="campaign-metric-row">
+          <div class="campaign-metric">
+            <span class="campaign-metric-val">~60</span>
+            <span class="campaign-metric-label">Companies</span>
+          </div>
+          <div class="campaign-metric">
+            <span class="campaign-metric-val">ITS / Eng</span>
+            <span class="campaign-metric-label">Target Function</span>
+          </div>
+        </div>
+        <p class="campaign-desc">CityStream — continuous work zone detection via 350K+ connected cameras covering 98% of US motorways. Zero hardware installation required. Replaces manual field checks.</p>
+      </div>
+
+      <!-- C) DOT Direct -->
+      <div class="campaign-card">
+        <div class="campaign-card-header">
+          <span class="campaign-vertical">DOT Direct</span>
+          <span class="campaign-status active">Active</span>
+        </div>
+        <p class="campaign-sender">Sender: Mark Pawloski, Dir Enterprise Growth</p>
+        <div class="campaign-metric-row">
+          <div class="campaign-metric">
+            <span class="campaign-metric-val">121</span>
+            <span class="campaign-metric-label">Targets</span>
+          </div>
+          <div class="campaign-metric">
+            <span class="campaign-metric-val">58 / 48 / 15</span>
+            <span class="campaign-metric-label">Cities / State DOTs / MPOs</span>
+          </div>
+        </div>
+        <p class="campaign-desc">Same CityStream value prop — direct to state DOTs, city transportation departments, and metropolitan planning organizations across the US.</p>
+      </div>
+
+      <!-- D) AV Insurance -->
+      <div class="campaign-card">
+        <div class="campaign-card-header">
+          <span class="campaign-vertical">AV Insurance</span>
+          <span class="campaign-status paused">Paused</span>
+        </div>
+        <p class="campaign-sender">Sender: Evan O'Brien, Dir Enterprise Growth</p>
+        <div class="campaign-metric-row">
+          <div class="campaign-metric">
+            <span class="campaign-metric-val">~32</span>
+            <span class="campaign-metric-label">Carriers</span>
+          </div>
+          <div class="campaign-metric">
+            <span class="campaign-metric-val">Dir+</span>
+            <span class="campaign-metric-label">Seniority</span>
+          </div>
+        </div>
+        <p class="campaign-desc">BADAS-powered Risk Index for AV underwriting — independent standard trained on 10B+ miles of real-world human driving data. Pre-bind scoring by corridor and driver type.</p>
+      </div>
+
+      <!-- E) AV Players -->
+      <div class="campaign-card">
+        <div class="campaign-card-header">
+          <span class="campaign-vertical">AV Players</span>
+          <span class="campaign-status active">Active</span>
+        </div>
+        <p class="campaign-sender">Sender: Evan O'Brien, Dir Enterprise Growth</p>
+        <div class="campaign-metric-row">
+          <div class="campaign-metric">
+            <span class="campaign-metric-val">~160</span>
+            <span class="campaign-metric-label">Companies</span>
+          </div>
+          <div class="campaign-metric">
+            <span class="campaign-metric-val">60M+</span>
+            <span class="campaign-metric-label">Edge-Case Clips</span>
+          </div>
+        </div>
+        <p class="campaign-desc">Real-world driving data from 350K+ AI dashcams — 100M+ miles/month. Long-tail edge cases (collisions, near-misses, VRU, adverse weather) that can't be synthetically generated. Used by NVIDIA, Waymo, Zoox.</p>
+      </div>
+
+    </div>
+
+    <div class="insight tab-reveal" style="margin-top:28px;">
+      <p class="insight-label">Campaign Alignment to Engines</p>
+      <p>Insurance campaigns (A, D) feed <strong>E5 Account Intelligence</strong> pipeline. DOT campaigns (B, C) feed <strong>E5</strong> + <strong>E1 Weekly Data</strong> CityStream content. AV Players campaign (E) feeds <strong>E5</strong> and generates case studies for <strong>E2 Executive Signal</strong>. All campaign responses route through HubSpot for <strong>E4 Paid Precision</strong> retargeting.</p>
+    </div>
+
+    <div class="insight purple-border tab-reveal" style="margin-top:16px;">
+      <p class="insight-label">Named Account Lists</p>
+      <p>Full named account lists, ICP definitions, email templates, and target individual spreadsheets maintained in campaign source file. Contact Dean Becker (Insurance), Mark Pawloski (DOT), or Evan O'Brien (AV) for vertical-specific pipeline status.</p>
+    </div>
+
   </div>
 </section>
 

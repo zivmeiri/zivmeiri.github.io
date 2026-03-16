@@ -1,0 +1,373 @@
+﻿✅ A) MGAs / Insurance
+Target Vertical: MGAs / Insurance USA 
+
+
+Target Seniority: Manager, Director, VP, C-Suite
+
+
+Target Keywords: 
+
+
+Technical - data, analytics, pricing, actuarial / actuary, underwriting, research, telematics, risk, modeling
+Business - partnerships, business development, strategy, innovation, alliances, commercial, corporate development, 
+
+
+Sender: Dean Becker, Account Executive
+
+
+Value Prop Angle:
+
+
+Nexar Risk Index gives underwriters and pricing teams pre-bind visibility into actual driving exposure — by driver type, geography, and time of day — using 10B+ miles of real-world data. No hardware, no cameras, no integration required. Replaces static garaging ZIP codes and lagging claims data with continuous, observation-based risk benchmarks that reveal where pricing assumptions diverge from reality.
+
+
+Search Prompt: 
+
+
+Run a campaign for the Insurance vertical. Drafting context: introduce the Nexar Risk Index, a new pre-bind risk intelligence tool built on 10B+ miles of real-world driving data. Core value prop: expected loss benchmarks by driver type, geography, and exposure intensity before policies are bound — no cameras or hardware required. Pain points: traditional rating relies on static garaging addresses and lagging claims data, creating blind spots between actual operating exposure and pricing. Position as enabling better risk separation and pricing grounded in real exposure, not ZIP code proxies. CTA: early access to explore the tool. Tone: insurance-literate, credible, not salesy. Short.
+A) Target Companies
+Group 1:
+
+
+West Congress Insurance Services, Superior Underwriters, Rivington Partners, Trigon, Howden Tiger, Allstar Underwriters, Scion Underwriting, James River Insurance Company, Preferred Speciality, Blue Ridge Specialty, U.S. Risk Brokers, Continental Underwriters, TWFG General Agency, DeCotis Specialty Insurance, Avant Brokerage, Lloyd's America, Universal Casualty, River Valley Underwriters, Commonwealth Underwriters, Johnson & Johnson, Alliant, Truist, FTP Inc., Dale Underwriting Partners, Westbound Insurance Brokerage, Tennant Special Risk, Brown & Brown, Berkley Prime Transportation, Shelly Middlebrooks & O'Leary, Bedford Underwriters, Berkley Environmental, Feiinsurance, Builders & Tradesmen's Ins. Services, Alabama Public Automobile Agency, RLI Corp, Specialty Wholesale Insurance Solutions, IC International, Skyward Specialty Insurance, Southern Ins Underwriters, Western Surplus Lines Agency, Brecht & Associates, Louis A. Williams & Associates, TigerRisk Partners, 5Star Administrators, Peachtree Special Risk Brokers, Colonial General, CRC, W.E. Love & Associates, Grand General Insurance Agency, LSI Insurance Services, Harman Kemp North America, RSG Underwriting Managers, Gorst & Compass Insurance, Everspan Group, Applied Specialty Underwriters, Beazley, Statewide Insurance Corp., Braishfield Associates, Ashley General Agency, Old Republic Specialty Insurance Underwriters, GJ Sullivan Co., First Light Program Managers, BSRI Insurance, Berkley One, SIS Wholesale Insurance Services, Appalachian Underwriters
+
+
+Group 2:
+
+
+Specialty Insurance Managers, Transatlantic Underwriters, WSG, W.N. Tuscano Agency, Surplus Ins. Brokers Agency, Hull & Company, The McGowen, Across America Insurance, Green Tree Risk Partners, Insurance House, Berkley Program Specialists, Patriot National Underwriters, TPI Insurance, National Interstate, Wellington Risk Ins. Agency, XPT Group, Northeast National Brokerage, NIP Specialty Brokerage, Chris-Leef General Agency, CID Insurance Programs, Berkley Excess Managers, Falvey Insurance Group, Carolina Casualty, Special Risk Underwriting Partners, Brit Group Services, Arlington Roe, Futuristic Underwriters, Jimcor, TAPCO Underwriters, UFG Specialty, J.M. Wilson Corp, Emerald Underwriting Managers, Bloss & Dillard, Westcap Insurance Services, Combined Group, Motor Transport Managers, Berkley Service Professionals, All Insurance Underwriters, Texas Specialty Underwriters, The Southern General Agency of Tennessee, Synapse Services, Chaucer, RT Specialty, Graham-Rogers, Transharpe, First Capital-AWIS, NSM Insurance Group, NeitClem Wholesale Insurance Brokerage, Tango Specialty, Boston Insurance Brokerage, Special Risks, Chesterfield Group, Tysers, TIP MGA, Sovereign Group International, TransRe, Westchester, International Risk Placement, ISC, Berkley Custom Insurance Managers, Burns & Wilcox Brokerage, Cochrane & Co., Brown & Riding Insurance, Western Security Surplus Ins Brokers, Strickland General Agency, Transportation Insurors, Market Finders Ins. Corp.
+
+
+Group 3:
+
+
+Morstan General Agency, Towerstone, Novatae, Breckenridge Insurance Group, UTICA Insurance, National Truck Underwriting Managers, Navigators/The Hartford, Axon Underwriters, Texas Security General Ins. Agency, Brownyard MacLean Specialty Insurance, The Parks Group, Sun Coast General Ins. Agency, Med James, Irvin B. Green & Associates, Amwins Transportation Underwriters, USG Insurance, Woodlands Insurance Services, White Oak Underwriting Agency, PartnerOne Environmental, RISCOM, Venture Underwriters, Strickland Insurance Brokers, Ron Rothert Insurance, USASIA Insurance Services, Glen A Schuberg, Bell & Clements, RSI, Fairmatic, Cox Specialty Markets, Jencap Insurance Services, Specialty Market Managers, Greenwich Transportation Underwriters, Beacon Hill, Lane & Associates, SSIUW, Shepherd Compello, South & Western, Bass Underwriters, Canopius, Brookside General Ins. Services, Align General Ins Agency, Paramount General Agency, Erik Larsen, M.J. Hall & Company, Arrowhead General Insurance, Great Lakes, IAT Insurance Group, Ascendant Underwriters, Brazos Specialty Risk, Cornerstone Underwriting Partners, Transportation Risk Services, Pacific International Underwriters, Risk Placement Services, Ryan Specialty Group, Alliant/Boynton, Network Adjusters, MacNeill Group, Sterling Surplus Underwriters, Yrisk, Pie Insurance, Treaty Oak General Agency, W.A. Schickedanz Agency/Interstate Risk Placement, New England Excess Exchange, Interstate Insurance Management, W.H. Greene & Associates, Timbys Insurance, North Point Underwriters, Hudson Insurance Group
+
+
+
+
+Campaign 2- Second batch
+
+
+ICP
+* underwriting strategy leaders
+* pricing / actuarial analytics teams
+* innovation or telematics teams
+Industry: Insurance 
+Example titles:
+* VP Commercial Auto Strategy
+* Head of Pricing Analytics
+* Director Predictive Modeling
+* Head of Underwriting Strategy 
+* Chief Actuary (Commercial Auto)
+* Director of Pricing Analytics
+* Head of Predictive Modeling
+* VP Actuarial Data Science
+* Head of Pricing / Actuarial
+* Head of Underwriting Strategy
+* Innovation / Data Strategy
+Examples:
+* Liberty Mutual Innovation
+* Nationwide Mobility
+* Travelers Emerging Tech
+* State Farm telematics
+
+
+
+A) Target Individuals
+https://docs.google.com/spreadsheets/d/12_H86AtXOW7SR8cplzCF0T6qp50Dokr5T4hgHxoQW0A/edit?gid=680619186#gid=680619186
+
+
+A) Drafts
+Email 1 — The Exposure Gap
+Subject: A blind spot in commercial auto exposure
+Hi {{First Name}},
+Something we hear often from underwriting teams is that actual driving exposure can look very different from what rating inputs assume.
+Garaging ZIP codes still play a large role in commercial auto pricing, but fleets rarely operate exactly where they’re garaged. In practice, exposure can shift significantly depending on where vehicles are actually driving, the road environment, and time of day.
+We recently launched the Nexar Risk Index, built on 10B+ miles of observed driving data, which allows insurers to benchmark real-world driving exposure by geography, driver type, and time window.
+The goal isn’t to replace existing models  more to provide a reference point for where real exposure may diverge from underwriting assumptions.
+We’re sharing early access with a small group of insurance teams exploring this area.
+Happy to walk you through it feel free to grab a time here if easier
+Best,
+Dean
+Email 2 — Claims Data Lag
+Subject: Where claims data arrives too late
+Hi {{First Name}},
+One challenge underwriting and actuarial teams often run into is that claims data reflects risk with a delay.
+By the time patterns show up in loss experience, the underlying driving exposure may already have shifted, particularly for fleets operating across different regions or time windows.
+The Nexar Risk Index was built to provide a different lens; using large-scale observational driving data to benchmark exposure across:
+   * geography
+   * time of day
+   * driver segments
+   * road environments
+Some teams are using it simply as a portfolio-level sanity check alongside traditional underwriting inputs.
+If you’re curious, I’d be glad to walk through how it works.
+Best,
+Dean
+Email 3 — Exposure vs Assumptions
+Subject: When underwriting assumptions drift
+Hi {{First Name}},
+A question we’ve been exploring recently is how often underwriting assumptions differ from actual operating exposure.
+For example, two fleets may share the same garaging territory, but their real-world driving environments can be very different depending on where and when vehicles are on the road.
+Using the Nexar Risk Index, insurers are starting to look at exposure through another lens;  benchmarking driving risk patterns by geography, time of day, and road environment based on 10B+ miles of observed driving data.
+The idea is simply to provide context for underwriting decisions and portfolio strategy, grounded in real driving exposure.
+We’re opening the tool to a small group of insurance teams to explore.
+Happy to show you what we’re seeing
+Best,
+Dean
+
+
+⏳ B) DOT Partners
+Target Vertical: DOT Partners
+
+
+Target Seniority: Manager, Director, VP, C-Suite
+
+
+Target Keywords: 
+
+
+Technical - ITS, traffic, transportation, planning, engineering, data, analytics, connected vehicle, smart city, implementation, work zone, road operations
+Business - deputy, commissioner, administrator, program, partnerships, public-private, innovation
+
+
+Sender: Mark Pawloski, Director Enterprise Growth
+
+
+Value Prop Angle:
+
+
+Nexar's CityStream platform gives DOTs continuous, passive visibility into active work zones using 350K+ connected cameras covering 98% of US motorways — no hardware installation or field inspection required. Detects permit compliance, monitors work zone conditions in real-time, and flags gaps between permitted and actual activity. Replaces manual field checks and fragmented reporting with always-on, crowdsourced observation across the entire road network.
+
+
+Search Prompt: 
+
+
+Run a campaign for the DOT/Smart City vertical. Drafting context: highlight Nexar's work zone detection capabilities via CityStream. Core value prop: 350K+ connected cameras covering 98% of US motorways provide real-time and weekly-aggregated work zone detection, including permit compliance monitoring, with zero hardware installation required by the agency. Pain points: DOTs rely on manual field inspection, delayed reporting, and fragmented data to monitor active work zones — creating safety risks and compliance gaps. Position as continuous, passive visibility into work zone conditions using crowdsourced dashcam data already flowing across their network. Briefly mention adjacent capabilities (road inventory, sign detection, live feed) as platform depth proof. CTA: brief call to discuss fit with current operations. Tone: practical, government-appropriate, no marketing fluff. Short.
+
+
+B) Target Companies
+Causeway, one.network, Blyncsy, iCone Products, NavJoy, Mixon-Hill, INRIX, NoTraffic, Iteris, Almaviva, Rekor Systems, Miovision, Econolite, AWP Safety, Wanco, Ver-Mac, Site 20/20, Drivewyze, Kapsch TrafficCom, Hayden AI, GovComm, Cambridge Mobile Telematics, Carahsoft, Paradigm Traffic Systems, HAAS Alert, Hill & Smith, Pi-Lit, Versilis, J-Tech, Solar Technology (SolarTech), TransCore, StreetLight Data, Replica, Derq, GridMatrix, LYT, Valerann, GoodVision, Numetric, SWARCO, SMATS, MS2, Swiftly, SolarTech, Parsons, Kimley-Horn, WSP, AECOM, Jacobs, HDR Engineering, Stantec, AtkinsRéalis, HNTB, Michael Baker International, CDM Smith, Arcadis, Olsson, Kittelson & Associates, Applied Intuition
+B) Target Individuals
+https://docs.google.com/spreadsheets/d/1UdHJU5QarBrg9ZrkkWIXVF6k2nEYyrjXr7Yu8OQJYE4/edit?gid=1495727775#gid=1495727775
+
+
+
+
+B) Drafts
+Email 1:
+
+
+Subject: Real-time work zone detection at scale
+
+
+Hi {{first_name}},
+
+
+Nexar's network of 350,000+ dashcams provides a continuous, ground-truth view of road networks. Our platform automatically extracts insights on infrastructure conditions, including the precise location and status of active work zones, road degradation and signage.
+
+
+DOTs and their engineering partners use this street-level data to automate asset monitoring and supplement manual inspections. This approach reduces operational costs and improves efficiency by providing frequent, scalable updates directly from the road.
+
+
+Would you be open to a brief call this week or next to explore how this may be of benefit to you?
+
+
+Mark Pawloski
+Director, Enterprise Growth
+
+
+Email 2 (t + 4):
+
+
+Subject: Re: Real-time work zone detection at scale
+
+
+Hi {{first_name}},
+
+
+I wanted to share an example: one of our DOT partners reduced their inspection cycle time by over 60% by layering Nexar's CityStream into their existing workflows. CityStream is implementation-ready and does not require any hardware or complex deployment.
+
+
+Happy to walk through how that could look for your DOT relationships if there's interest.
+
+
+Mark Pawloski
+Director, Enterprise Growth
+
+
+Email 3 (t + 9):
+
+
+Subject: Re: Real-time work zone detection at scale
+
+
+Hi {{first_name}},
+
+
+If a call doesn't make sense at the moment, I can send over a short demo showcasing the type of road intelligence data we capture through CityStream.
+
+
+Let me know if that’d be of interest.
+
+
+Mark Pawloski
+Director, Enterprise Growth
+
+
+
+
+⏳ C) DOT Direct
+Target Vertical: DOT Direct
+
+
+Target Seniority: Manager, Director, VP, C-Suite
+
+
+Target Keywords: 
+
+
+Traffic, Transportation, Highway Safety, ITS, TSMO, Mobility, Connected Vehicles, CAV, Work Zone, Vision Zero, TMC, Road Safety, Incident Management, Safe Streets, Public Works, Signals, Traffic Calming, Corridor Management, Infrastructure, Asset Management, Congestion, CCTV, Pavement Management, Smart Work Zone, Active Traffic Management, Road Conditions, DMS, Street Design, Freeway Management, GIS, V2X, V2I, Crash Data, Safety Data, Digital Twin, Road Weather, Smart City, Innovation, MPO, Safe System, Geospatial, Performance Management, Intersection Safety
+
+
+Sender: Mark Pawloski, Director Enterprise Growth
+
+
+Value Prop Angle:
+
+
+Nexar's CityStream platform gives DOTs continuous, passive visibility into active work zones using 350K+ connected cameras covering 98% of US motorways — no hardware installation or field inspection required. Detects permit compliance, monitors work zone conditions in real-time, and flags gaps between permitted and actual activity. Replaces manual field checks and fragmented reporting with always-on, crowdsourced observation across the entire road network.
+
+
+
+
+C) Target Companies
+121 Total, 58 City/Municipal, 48 State DOTs, 15 MPOs/Regional Planning Orgs:
+Alabama Department of Transportation, Arizona Department of Transportation, Arkansas Department of Transportation, Atlanta Regional Commission, California Department of Transportation, Chicago Metropolitan Agency for Planning, City of Albuquerque, City of Atlanta, City of Austin, City of Baltimore, City of Boise, City of Boston, City of Buffalo, City of Charlotte, City of Chicago, City of Cincinnati, City of Cleveland, City of Colorado Springs, City of Columbus, City of Dallas, City of Denver, City of Detroit, City of Durham, City of Greensboro, City of Honolulu, City of Houston, City of Huntsville, City of Indianapolis, City of Jacksonville, City of Kansas City, City of Las Vegas, City of Los Angeles, City of Madison, City of Memphis, City of Milwaukee, City of Minneapolis, City of New Orleans, City of New York, City of Oklahoma City, City of Omaha, City of Orlando, City of Philadelphia, City of Phoenix, City of Pittsburgh, City of Portland, City of Providence, City of Raleigh, City of Richmond, City of Riverside, City of Sacramento, City of Salt Lake City, City of San Antonio, City of San Diego, City of San Francisco, City of San Jose, City of Seattle, City of St. Louis, City of Tampa, City of Tucson, City of Tulsa, City of Virginia Beach, City of Wichita, Colorado Department of Transportation, Connecticut Department of Transportation, Delaware Department of Transportation, Delaware Valley Regional Planning Commission, Denver Regional Council of Governments, District of Columbia, Florida Department of Transportation, Georgia Department of Transportation, Hawaii Department of Transportation, Houston-Galveston Area Council, Idaho Transportation Department, Illinois Department of Transportation, Indiana Department of Transportation, Iowa Department of Transportation, Kansas Department of Transportation, Kentucky Transportation Cabinet, Louisiana Department of Transportation and Development, Maine Department of Transportation, Maricopa Association of Governments, Maryland Department of Transportation, Massachusetts Department of Transportation, Metropolitan Transportation Commission, Metropolitan Washington Council of Governments, Miami-Dade County, Michigan Department of Transportation, Minnesota Department of Transportation, Mississippi Department of Transportation, Missouri Department of Transportation, Montana Department of Transportation, Nebraska Department of Transportation, Nevada Department of Transportation, New Hampshire Department of Transportation, New Jersey Department of Transportation, New Mexico Department of Transportation, New York Metropolitan Transportation Council, North Carolina Department of Transportation, North Central Texas Council of Governments, North Dakota Department of Transportation, Ohio Department of Transportation, Oklahoma Department of Transportation, Oregon Department of Transportation, Pennsylvania Department of Transportation, Puget Sound Regional Council, Rhode Island Department of Transportation, Sacramento Area Council of Governments, San Diego Association of Governments, South Carolina Department of Transportation, South Dakota Department of Transportation, Southeast Michigan Council of Governments, Southern California Association of Governments, Tennessee Department of Transportation, Texas Department of Transportation, Utah Department of Transportation, Vermont Agency of Transportation, Virginia Department of Transportation, Washington State Department of Transportation, West Virginia Division of Highways, Wisconsin Department of Transportation, Wyoming Department of Transportation
+C) Target Individuals
+https://docs.google.com/spreadsheets/d/1NVgLBjnlBloAhmopVhP0kYSyB-u07AG6qEdRMI_egac/edit?gid=0#gid=0
+
+
+C) Drafts
+
+
+⏸️ D) AV Insurance
+Target Vertical: AV Insurers
+
+
+Target Seniority: Director+ (C-Suite excluded)
+
+
+Target Keywords: 
+
+
+Technical - data, analytics, pricing, actuarial / actuary, underwriting, research, telematics, risk, modeling
+Business - partnerships, business development, strategy, innovation, alliances, commercial, corporate development
+
+
+Sender: Evan O’Brien, Director Enterprise Growth
+
+
+Value Prop Angle:
+
+
+Nexar's Risk Index gives AV-focused carriers a way to score risk at the pre-bind stage using 10B+ miles of real-world human driving data from 350K+ connected cameras. Benchmarks by corridor and driver type replace the traditional dependency on months of telematics or sparse historical claims. Powered by BADAS, Nexar's risk prediction model trained on the world's largest human driving dataset, the Risk Index serves as a shared risk reference layer across the U.S., enabling carriers to benchmark ODD environments and support insurability with population-level, continuously updated risk zones shaped by road design, traffic density, driving behavior, and incident history.
+
+
+Search Prompt: 
+
+
+Run a campaign for the AV Insurance vertical. Drafting context: introduce the Nexar Risk Index as a pre-bind risk scoring tool for AV-focused carriers, powered by BADAS, Nexar's risk prediction model. Core value prop: Benchmarks by corridor and driver type built on 10B+ miles of real-world human driving data, allowing underwriting teams to score risk before bind rather than waiting on months of telematics or sparse AV claims history. Secondary angle: BADAS is trained on the world's largest human driving dataset and powers the Risk Index as a shared risk reference layer across the U.S., giving carriers a consistent baseline to benchmark AV operating environments against human driving behavior. Pain points: AV underwriting lacks historical loss data, traditional rating factors don't map to autonomous fleets, and carriers need a predictive view of where losses concentrate before they hit the book. CTA: brief call to walk through it. Tone: credible, insurance-literate, not salesy. Short.
+
+
+
+
+D) Target Companies
+Apollo ibott, Zego, Koop Insurance, Avinew, HDI Global, Aioi Nissay Dowa, Aviva, MACIF, Sompo International, Nationwide, Munich Re, Swiss Re, Tokio Marine, MS&AD Insurance Group, AXA XL, Mobilitas, Travelers, AIG, Zurich Insurance Group, Liberty Mutual, Allianz, Marsh, Aon, WTW, Lockton, Simulytic, Edge Case Research, Koop Technologies, Lemonade, Trov, Tesla Insurance, Armilla AI
+D) Target Individuals
+https://docs.google.com/spreadsheets/d/1E3zpKLOWZ8vJ3vRH9MKsr059lJqbxqg6NcuiNKR5WhU/edit?gid=1041529700#gid=1041529700
+
+
+
+
+D) Drafts
+Email 1
+
+
+Subject: AVs are grading their own tests
+Hi {{first_name}},
+AV underwriting has lacked a consistent standard until now. Most carriers are stuck waiting on months of telematics or relying on self-reported data from the AVs themselves.
+Nexar's BADAS model creates an independent standard for AV underwriting, trained on 10B+ miles of real-world human driving data from 350K+ connected cameras.
+It benchmarks how AVs handle edge-case scenarios (the situations that drive loss prediction) giving you neutral third-party validation instead of AVs grading their own tests. This enables competitive pricing while avoiding high-risk exposure compared to carriers without this visibility.
+Open to discussing how this applies to your book? Feel free to book a call in my calendar. 
+Best,
+Evan
+Email 2
+
+
+Subject: Re: AVs are grading their own tests
+Hi {{first_name}},
+Following up on BADAS for AV underwriting. Something that's resonated with carriers is the ability to offer premium discounts to AVs that prove they handle edge cases better than human drivers in the same corridors, creating a forcing function for AVs to earn validation rather than self-report it.
+Happy to walk through how this works if it's relevant to your team. 
+Best,
+Evan
+Email 3
+Subject: Re: AVs are grading their own tests
+Hi {{first_name}},
+If timing doesn't work for you, is there someone on your underwriting or innovation team I should connect with on AV risk validation?
+Otherwise, happy to share some overview materials if you prefer.
+Best,
+Evan
+
+
+
+
+
+
+⏳ E) AV Players
+Target Vertical: AV and AV-Adjacent Players
+
+
+Target Seniority: Director+ (C-Suite excluded)
+
+
+Target Keywords: 
+
+
+Perception, Planning, Prediction, Localization, Mapping, Sensor Fusion, Sensor Integration, Simulation, Simulation Infrastructure, Validation, Verification, Safety, Autonomy, Autonomous Driving, Self-Driving, ADAS, Machine Learning, Computer Vision, Deep Learning, Data Science, Data Platform, Data Engineering, Data Partnerships, AI, Artificial Intelligence, Connected Vehicle, Vehicle Intelligence, Vehicle Software, R&D, Innovation, Partnerships, Strategic Partnerships, Business Development, Corporate Development, Go-to-Market, Robotics, Annotation, Synthetic Data, Digital Twin, World Model, Scenario, Motion Planning, Trajectory, Object Detection, Segmentation, SLAM, MLOps, Fleet Intelligence, Hazard Analysis, Field Deployment, Vehicle Dynamics, Model Optimization, Edge Cases, Mobility
+
+
+Sender: Evan O’Brien, Director Enterprise Growth
+
+
+Value Prop Angle:
+
+
+Nexar's network of 350K+ AI dashcams captures 100M+ miles/month of real-world driving data. Teams at NVIDIA, Waymo, and Zoox use it. The dataset includes 60M+ edge-case clips (collisions, near-misses, VRU interactions, work zones, adverse weather) that can't be safely staged or synthetically generated.
+
+
+Synthetic data fails on scenarios never programmed. Fleet data captures thousands of miles. Nexar captures 100M+ real-world miles monthly from production vehicles. The long-tail edge cases only emerge at that scale.
+
+
+By persona function:
+
+
+Technical (Perception, ML, Simulation, V&V, Safety): Real-world long-tail scenarios for perception validation, simulation enrichment, safety case development, and ODD expansion. Programmable collection by location, trigger, or demographic.
+
+
+Business (Partnerships, BD, Corp Dev, Strategy): Data partnership model that scales with deployment, not fleet size. Crowd-sourced network = continuous fresh coverage at a fraction of purpose-built collection cost. Proven with NVIDIA, Waymo, Zoox.
+
+
+
+
+
+
+E) Target Companies
+EasyMile, Mercedes-Benz, Holon, AIMotive, Minus Zero, Swaayatt Robots, Flux Auto, Flo Mobility, Imagry, SoftBank BOLDLY, 2getthere, Ohmio, AiDriver, Vueron, 42dot, Autonomous a2z, AutoGo, Oxa, Aurrigo, Avride, Torc Robotics, Helm.ai, Tensor Auto, Beep, Rivian, Stack AV, Glydways, EVIE Autonomous, Gatik, Baidu Apollo, Nullmax, Tensor Robocar, Waabi, Einride, Wayve, Kodiak Robotics, May Mobility, Nuro, Bot Auto, Waymo, Zoox, Aurora Innovation, Motional, Applied Intuition, PlusAI, Pony.ai, AVL List, Magna International, OPAL-RT Technologies, Black Sesame Technologies, Horizon Robotics, Geely, Changan Auto, Great Wall Motor, Huawei, Cainiao, DJI Automotive, Giga AI, Hesai Technology, JD Logistics, Li Auto, Meituan, Clevon, Kalmar, Konecranes, Valeo, Dassault Systemes, Keolis, Navya Mobility, dSPACE, CARIAD, IPG Automotive, Siemens, MAN Truck & Bus, Goggo Network, KPIT Technologies, Tata Elxsi, Ati Motors, Hi-Tech Robotic Systemz, Nayan Technologies, Bluewhite, Autobrains, Tactile Mobility, Autofleet, REE Automotive, Komatsu, Isuzu, Renesas Electronics, Subaru, Mazda, Iveco, Sonair, ST Engineering, Kakao Mobility, STRADVISION, MORAI, NAVER LABS, whereable.ai, Hexagon AB, Scania, rFpro, Outrider, SafeAI, Tesla, Pronto AI, Ansys, Serve Robotics, Cartken, Caterpillar, Coco Robotics, John Deere, Monarch Tractor, Nauto, PACCAR, International Motors, Lucid Motors, Ottonomy.IO, Aeva Technologies, Autolane, Comma.ai, Forterra, MathWorks, Harbinger, Shield AI, Starship Technologies, Audi, Volkswagen, Daimler Truck, BMW, Bosch, Continental, ZF Group, Mobileye, Foretellix, Cognata, Woven by Toyota, Nissan, Honda, 0 Series, Stellantis, Hyundai, Volvo Autonomous Solutions, General Motors, Super Cruise, Telenav, NVIDIA, Qualcomm, Ford, BlueCruise, Aptiv
+
+
+E) Target Individuals
+https://docs.google.com/spreadsheets/d/14swfUWx3EgCkhCpXfb6QoAbLz9TPk1TjguB8j1HjRXs/edit?gid=1765479969#gid=1765479969
+
+
+E) Drafts
